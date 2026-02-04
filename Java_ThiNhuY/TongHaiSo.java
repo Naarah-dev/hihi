@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TongHaiSo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+//da sua code
         System.out.print("Nhap so a: ");
         int a = scanner.nextInt();
 
@@ -18,3 +18,4 @@ public class TongHaiSo {
     }
 
 }
+
